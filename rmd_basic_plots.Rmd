@@ -1,3 +1,6 @@
+#example_repo
+
+This repo is an example for p8105 and includes a few simple RMD files.
 ---
 title: "Basic Plots"
 author: "Jeff Goldsmith"
